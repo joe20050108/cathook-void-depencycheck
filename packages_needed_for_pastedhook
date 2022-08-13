@@ -1,0 +1,6 @@
+# Include these packages for void when compiling cathook
+# cmake make SDL2 SDL2-devel
+# For pastedhook, ALSO include these:
+# boost-devel
+# Thanks -_-
+# <3
